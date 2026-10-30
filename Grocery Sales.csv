@@ -1,0 +1,601 @@
+Bill_ID,Date,Product_Name,Category,Quantity,Price_Per_Unit,Store_Location,Total_Bill_Amount
+5001,2026-01-01 00:00:00,Aashirvaad Atta (5kg),Staples & Grains,3,250,Pune,750
+5002,2026-01-01 02:00:00,Fortune Oil (1L),Fruits & Vegetables,3,120,Thane,360
+5003,2026-01-01 04:00:00,Maggi Noodles,Dairy & Bakery,1,30,Mumbai,30
+5004,2026-01-01 06:00:00,Fresh Apples (1kg),Staples & Grains,1,50,Nashik,50
+5005,2026-01-01 08:00:00,Tata Salt (1kg),Dairy & Bakery,4,50,Thane,200
+5006,2026-01-01 10:00:00,Amul Butter,Personal Care,4,75,Mumbai,300
+5007,2026-01-01 12:00:00,Tata Salt (1kg),Staples & Grains,3,450,Mumbai,1350
+5008,2026-01-01 14:00:00,Colgate Toothpaste,Staples & Grains,1,50,Nashik,50
+5009,2026-01-01 16:00:00,Milk (1L),Dairy & Bakery,4,120,Thane,480
+5010,2026-01-01 18:00:00,Colgate Toothpaste,Fruits & Vegetables,5,50,Pune,250
+5011,2026-01-01 20:00:00,Tata Salt (1kg),Personal Care,1,75,Nagpur,75
+5012,2026-01-01 22:00:00,Aashirvaad Atta (5kg),Dairy & Bakery,1,30,Thane,30
+5013,2026-01-02 00:00:00,Basmati Rice (1kg),Staples & Grains,4,50,Nagpur,200
+5014,2026-01-02 02:00:00,Tata Salt (1kg),Staples & Grains,2,250,Thane,500
+5015,2026-01-02 04:00:00,Basmati Rice (1kg),Dairy & Bakery,4,250,Thane,1000
+5016,2026-01-02 06:00:00,Basmati Rice (1kg),Dairy & Bakery,3,50,Pune,150
+5017,2026-01-02 08:00:00,Sugar (1kg),Staples & Grains,3,75,Pune,225
+5018,2026-01-02 10:00:00,Tata Salt (1kg),Snacks,3,450,Nagpur,1350
+5019,2026-01-02 12:00:00,Fresh Apples (1kg),Staples & Grains,4,30,Mumbai,120
+5020,2026-01-02 14:00:00,Basmati Rice (1kg),Fruits & Vegetables,3,50,Nagpur,150
+5021,2026-01-02 16:00:00,Maggi Noodles,Snacks,5,75,Mumbai,375
+5022,2026-01-02 18:00:00,Milk (1L),Snacks,5,50,Thane,250
+5023,2026-01-02 20:00:00,Fresh Apples (1kg),Groceries,5,30,Mumbai,150
+5024,2026-01-02 22:00:00,Maggi Noodles,Staples & Grains,5,30,Mumbai,150
+5025,2026-01-03 00:00:00,Fresh Apples (1kg),Staples & Grains,4,450,Thane,1800
+5026,2026-01-03 02:00:00,Tata Salt (1kg),Personal Care,2,30,Nagpur,60
+5027,2026-01-03 04:00:00,Amul Butter,Groceries,2,50,Pune,100
+5028,2026-01-03 06:00:00,Basmati Rice (1kg),Staples & Grains,5,250,Pune,1250
+5029,2026-01-03 08:00:00,Basmati Rice (1kg),Fruits & Vegetables,2,30,Thane,60
+5030,2026-01-03 10:00:00,Maggi Noodles,Dairy & Bakery,1,30,Mumbai,30
+5031,2026-01-03 12:00:00,Amul Butter,Staples & Grains,2,75,Nagpur,150
+5032,2026-01-03 14:00:00,Tata Salt (1kg),Personal Care,4,120,Nashik,480
+5033,2026-01-03 16:00:00,Maggi Noodles,Staples & Grains,2,120,Thane,240
+5034,2026-01-03 18:00:00,Fortune Oil (1L),Staples & Grains,3,50,Nagpur,150
+5035,2026-01-03 20:00:00,Fresh Apples (1kg),Staples & Grains,4,450,Thane,1800
+5036,2026-01-03 22:00:00,Amul Butter,Personal Care,4,50,Mumbai,200
+5037,2026-01-04 00:00:00,Sugar (1kg),Personal Care,2,75,Nagpur,150
+5038,2026-01-04 02:00:00,Maggi Noodles,Dairy & Bakery,2,450,Nagpur,900
+5039,2026-01-04 04:00:00,Maggi Noodles,Personal Care,5,250,Nagpur,1250
+5040,2026-01-04 06:00:00,Maggi Noodles,Staples & Grains,5,50,Pune,250
+5041,2026-01-04 08:00:00,Milk (1L),Fruits & Vegetables,3,30,Mumbai,90
+5042,2026-01-04 10:00:00,Amul Butter,Dairy & Bakery,4,30,Nashik,120
+5043,2026-01-04 12:00:00,Aashirvaad Atta (5kg),Staples & Grains,4,450,Nagpur,1800
+5044,2026-01-04 14:00:00,Tata Salt (1kg),Staples & Grains,2,250,Mumbai,500
+5045,2026-01-04 16:00:00,Basmati Rice (1kg),Staples & Grains,1,75,Mumbai,75
+5046,2026-01-04 18:00:00,Aashirvaad Atta (5kg),Staples & Grains,1,120,Nagpur,120
+5047,2026-01-04 20:00:00,Tata Salt (1kg),Dairy & Bakery,1,50,Thane,50
+5048,2026-01-04 22:00:00,Amul Butter,Dairy & Bakery,4,50,Thane,200
+5049,2026-01-05 00:00:00,Basmati Rice (1kg),Staples & Grains,4,120,Pune,480
+5050,2026-01-05 02:00:00,Sugar (1kg),Dairy & Bakery,3,250,Nagpur,750
+5051,2026-01-05 04:00:00,Basmati Rice (1kg),Groceries,2,30,Mumbai,60
+5052,2026-01-05 06:00:00,Basmati Rice (1kg),Personal Care,5,50,Thane,250
+5053,2026-01-05 08:00:00,Maggi Noodles,Dairy & Bakery,5,75,Mumbai,375
+5054,2026-01-05 10:00:00,Amul Butter,Personal Care,1,50,Pune,50
+5055,2026-01-05 12:00:00,Tata Salt (1kg),Staples & Grains,2,450,Mumbai,900
+5056,2026-01-05 14:00:00,Fortune Oil (1L),Staples & Grains,4,120,Thane,480
+5057,2026-01-05 16:00:00,Basmati Rice (1kg),Staples & Grains,1,50,Nagpur,50
+5058,2026-01-05 18:00:00,Maggi Noodles,Staples & Grains,2,50,Nagpur,100
+5059,2026-01-05 20:00:00,Fortune Oil (1L),Personal Care,2,75,Thane,150
+5060,2026-01-05 22:00:00,Colgate Toothpaste,Staples & Grains,5,450,Pune,2250
+5061,2026-01-06 00:00:00,Fortune Oil (1L),Dairy & Bakery,1,450,Nashik,450
+5062,2026-01-06 02:00:00,Fresh Apples (1kg),Dairy & Bakery,1,120,Nagpur,120
+5063,2026-01-06 04:00:00,Sugar (1kg),Staples & Grains,2,30,Mumbai,60
+5064,2026-01-06 06:00:00,Sugar (1kg),Staples & Grains,2,250,Pune,500
+5065,2026-01-06 08:00:00,Aashirvaad Atta (5kg),Personal Care,5,250,Pune,1250
+5066,2026-01-06 10:00:00,Basmati Rice (1kg),Staples & Grains,4,250,Nashik,1000
+5067,2026-01-06 12:00:00,Basmati Rice (1kg),Staples & Grains,5,120,Nashik,600
+5068,2026-01-06 14:00:00,Basmati Rice (1kg),Fruits & Vegetables,3,50,Thane,150
+5069,2026-01-06 16:00:00,Amul Butter,Staples & Grains,5,50,Nagpur,250
+5070,2026-01-06 18:00:00,Colgate Toothpaste,Snacks,1,75,Pune,75
+5071,2026-01-06 20:00:00,Fresh Apples (1kg),Snacks,4,50,Thane,200
+5072,2026-01-06 22:00:00,Colgate Toothpaste,Personal Care,1,250,Mumbai,250
+5073,2026-01-07 00:00:00,Tata Salt (1kg),Snacks,2,75,Pune,150
+5074,2026-01-07 02:00:00,Basmati Rice (1kg),Staples & Grains,3,30,Nashik,90
+5075,2026-01-07 04:00:00,Fortune Oil (1L),Staples & Grains,2,120,Nagpur,240
+5076,2026-01-07 06:00:00,Tata Salt (1kg),Staples & Grains,4,450,Thane,1800
+5077,2026-01-07 08:00:00,Maggi Noodles,Dairy & Bakery,3,250,Nagpur,750
+5078,2026-01-07 10:00:00,Colgate Toothpaste,Fruits & Vegetables,1,30,Nagpur,30
+5079,2026-01-07 12:00:00,Maggi Noodles,Staples & Grains,2,450,Nagpur,900
+5080,2026-01-07 14:00:00,Colgate Toothpaste,Staples & Grains,5,50,Thane,250
+5081,2026-01-07 16:00:00,Amul Butter,Groceries,3,75,Mumbai,225
+5082,2026-01-07 18:00:00,Amul Butter,Staples & Grains,1,120,Pune,120
+5083,2026-01-07 20:00:00,Maggi Noodles,Staples & Grains,3,75,Pune,225
+5084,2026-01-07 22:00:00,Basmati Rice (1kg),Snacks,1,75,Pune,75
+5085,2026-01-08 00:00:00,Sugar (1kg),Staples & Grains,5,30,Thane,150
+5086,2026-01-08 02:00:00,Basmati Rice (1kg),Personal Care,4,50,Pune,200
+5087,2026-01-08 04:00:00,Sugar (1kg),Staples & Grains,2,450,Thane,900
+5088,2026-01-08 06:00:00,Fresh Apples (1kg),Dairy & Bakery,5,50,Nagpur,250
+5089,2026-01-08 08:00:00,Basmati Rice (1kg),Personal Care,3,120,Mumbai,360
+5090,2026-01-08 10:00:00,Colgate Toothpaste,Dairy & Bakery,4,250,Thane,1000
+5091,2026-01-08 12:00:00,Fortune Oil (1L),Staples & Grains,3,75,Mumbai,225
+5092,2026-01-08 14:00:00,Fortune Oil (1L),Staples & Grains,5,250,Nashik,1250
+5093,2026-01-08 16:00:00,Colgate Toothpaste,Staples & Grains,1,75,Nagpur,75
+5094,2026-01-08 18:00:00,Colgate Toothpaste,Staples & Grains,4,50,Pune,200
+5095,2026-01-08 20:00:00,Aashirvaad Atta (5kg),Staples & Grains,4,120,Nagpur,480
+5096,2026-01-08 22:00:00,Maggi Noodles,Staples & Grains,2,250,Mumbai,500
+5097,2026-01-09 00:00:00,Amul Butter,Staples & Grains,1,120,Thane,120
+5098,2026-01-09 02:00:00,Maggi Noodles,Snacks,5,50,Nashik,250
+5099,2026-01-09 04:00:00,Amul Butter,Staples & Grains,4,75,Pune,300
+5100,2026-01-09 06:00:00,Colgate Toothpaste,Staples & Grains,1,250,Pune,250
+5101,2026-01-09 08:00:00,Aashirvaad Atta (5kg),Staples & Grains,1,30,Pune,30
+5102,2026-01-09 10:00:00,Fortune Oil (1L),Staples & Grains,1,450,Nagpur,450
+5103,2026-01-09 12:00:00,Fresh Apples (1kg),Dairy & Bakery,4,50,Nagpur,200
+5104,2026-01-09 14:00:00,Sugar (1kg),Staples & Grains,4,250,Thane,1000
+5105,2026-01-09 16:00:00,Fortune Oil (1L),Fruits & Vegetables,3,30,Thane,90
+5106,2026-01-09 18:00:00,Basmati Rice (1kg),Staples & Grains,2,30,Mumbai,60
+5107,2026-01-09 20:00:00,Tata Salt (1kg),Staples & Grains,1,50,Nashik,50
+5108,2026-01-09 22:00:00,Aashirvaad Atta (5kg),Personal Care,5,75,Nagpur,375
+5109,2026-01-10 00:00:00,Maggi Noodles,Staples & Grains,1,75,Nagpur,75
+5110,2026-01-10 02:00:00,Amul Butter,Fruits & Vegetables,1,250,Mumbai,250
+5111,2026-01-10 04:00:00,Aashirvaad Atta (5kg),Dairy & Bakery,1,450,Thane,450
+5112,2026-01-10 06:00:00,Tata Salt (1kg),Fruits & Vegetables,3,50,Pune,150
+5113,2026-01-10 08:00:00,Amul Butter,Dairy & Bakery,2,30,Nashik,60
+5114,2026-01-10 10:00:00,Milk (1L),Dairy & Bakery,5,120,Thane,600
+5115,2026-01-10 12:00:00,Amul Butter,Snacks,4,250,Pune,1000
+5116,2026-01-10 14:00:00,Sugar (1kg),Groceries,4,30,Pune,120
+5117,2026-01-10 16:00:00,Colgate Toothpaste,Personal Care,3,120,Nashik,360
+5118,2026-01-10 18:00:00,Tata Salt (1kg),Fruits & Vegetables,4,450,Nagpur,1800
+5119,2026-01-10 20:00:00,Aashirvaad Atta (5kg),Fruits & Vegetables,1,450,Nashik,450
+5120,2026-01-10 22:00:00,Tata Salt (1kg),Staples & Grains,4,75,Nagpur,300
+5121,2026-01-11 00:00:00,Amul Butter,Staples & Grains,1,75,Pune,75
+5122,2026-01-11 02:00:00,Fortune Oil (1L),Dairy & Bakery,1,450,Nashik,450
+5123,2026-01-11 04:00:00,Fresh Apples (1kg),Snacks,3,30,Mumbai,90
+5124,2026-01-11 06:00:00,Amul Butter,Dairy & Bakery,3,250,Mumbai,750
+5125,2026-01-11 08:00:00,Basmati Rice (1kg),Dairy & Bakery,1,120,Thane,120
+5126,2026-01-11 10:00:00,Aashirvaad Atta (5kg),Staples & Grains,4,50,Nagpur,200
+5127,2026-01-11 12:00:00,Amul Butter,Staples & Grains,4,50,Nagpur,200
+5128,2026-01-11 14:00:00,Amul Butter,Fruits & Vegetables,4,75,Thane,300
+5129,2026-01-11 16:00:00,Amul Butter,Staples & Grains,2,120,Nashik,240
+5130,2026-01-11 18:00:00,Sugar (1kg),Dairy & Bakery,3,50,Nagpur,150
+5131,2026-01-11 20:00:00,Basmati Rice (1kg),Staples & Grains,4,50,Thane,200
+5132,2026-01-11 22:00:00,Aashirvaad Atta (5kg),Staples & Grains,2,120,Nashik,240
+5133,2026-01-12 00:00:00,Maggi Noodles,Staples & Grains,3,120,Nagpur,360
+5134,2026-01-12 02:00:00,Amul Butter,Personal Care,2,50,Nashik,100
+5135,2026-01-12 04:00:00,Milk (1L),Dairy & Bakery,4,75,Nagpur,300
+5136,2026-01-12 06:00:00,Fortune Oil (1L),Staples & Grains,4,250,Thane,1000
+5137,2026-01-12 08:00:00,Maggi Noodles,Staples & Grains,2,250,Pune,500
+5138,2026-01-12 10:00:00,Amul Butter,Staples & Grains,4,50,Nashik,200
+5139,2026-01-12 12:00:00,Milk (1L),Personal Care,5,30,Pune,150
+5140,2026-01-12 14:00:00,Maggi Noodles,Fruits & Vegetables,3,75,Pune,225
+5141,2026-01-12 16:00:00,Sugar (1kg),Dairy & Bakery,5,50,Mumbai,250
+5142,2026-01-12 18:00:00,Maggi Noodles,Dairy & Bakery,4,50,Thane,200
+5143,2026-01-12 20:00:00,Fresh Apples (1kg),Dairy & Bakery,3,120,Nagpur,360
+5144,2026-01-12 22:00:00,Maggi Noodles,Dairy & Bakery,1,30,Nashik,30
+5145,2026-01-13 00:00:00,Fortune Oil (1L),Staples & Grains,2,120,Pune,240
+5146,2026-01-13 02:00:00,Colgate Toothpaste,Staples & Grains,3,250,Nagpur,750
+5147,2026-01-13 04:00:00,Sugar (1kg),Dairy & Bakery,5,250,Nashik,1250
+5148,2026-01-13 06:00:00,Tata Salt (1kg),Staples & Grains,3,120,Thane,360
+5149,2026-01-13 08:00:00,Fortune Oil (1L),Groceries,2,50,Nashik,100
+5150,2026-01-13 10:00:00,Aashirvaad Atta (5kg),Dairy & Bakery,2,250,Thane,500
+5151,2026-01-13 12:00:00,Aashirvaad Atta (5kg),Staples & Grains,3,450,Nagpur,1350
+5152,2026-01-13 14:00:00,Fresh Apples (1kg),Dairy & Bakery,1,120,Nagpur,120
+5153,2026-01-13 16:00:00,Fresh Apples (1kg),Fruits & Vegetables,5,75,Pune,375
+5154,2026-01-13 18:00:00,Sugar (1kg),Staples & Grains,5,250,Nashik,1250
+5155,2026-01-13 20:00:00,Milk (1L),Staples & Grains,3,450,Thane,1350
+5156,2026-01-13 22:00:00,Sugar (1kg),Fruits & Vegetables,4,50,Nashik,200
+5157,2026-01-14 00:00:00,Sugar (1kg),Dairy & Bakery,3,75,Nashik,225
+5158,2026-01-14 02:00:00,Tata Salt (1kg),Staples & Grains,1,30,Nagpur,30
+5159,2026-01-14 04:00:00,Fresh Apples (1kg),Staples & Grains,5,75,Nagpur,375
+5160,2026-01-14 06:00:00,Fortune Oil (1L),Staples & Grains,2,450,Mumbai,900
+5161,2026-01-14 08:00:00,Fortune Oil (1L),Dairy & Bakery,4,75,Pune,300
+5162,2026-01-14 10:00:00,Fresh Apples (1kg),Fruits & Vegetables,1,450,Mumbai,450
+5163,2026-01-14 12:00:00,Amul Butter,Staples & Grains,4,50,Pune,200
+5164,2026-01-14 14:00:00,Milk (1L),Staples & Grains,1,30,Pune,30
+5165,2026-01-14 16:00:00,Amul Butter,Staples & Grains,5,450,Nashik,2250
+5166,2026-01-14 18:00:00,Fresh Apples (1kg),Staples & Grains,3,75,Mumbai,225
+5167,2026-01-14 20:00:00,Aashirvaad Atta (5kg),Groceries,5,75,Nagpur,375
+5168,2026-01-14 22:00:00,Fortune Oil (1L),Dairy & Bakery,1,30,Thane,30
+5169,2026-01-15 00:00:00,Maggi Noodles,Staples & Grains,5,450,Pune,2250
+5170,2026-01-15 02:00:00,Tata Salt (1kg),Staples & Grains,5,50,Mumbai,250
+5171,2026-01-15 04:00:00,Milk (1L),Snacks,1,50,Pune,50
+5172,2026-01-15 06:00:00,Milk (1L),Dairy & Bakery,4,50,Mumbai,200
+5173,2026-01-15 08:00:00,Tata Salt (1kg),Dairy & Bakery,3,250,Thane,750
+5174,2026-01-15 10:00:00,Maggi Noodles,Fruits & Vegetables,2,50,Mumbai,100
+5175,2026-01-15 12:00:00,Milk (1L),Dairy & Bakery,1,50,Pune,50
+5176,2026-01-15 14:00:00,Fortune Oil (1L),Staples & Grains,3,250,Nashik,750
+5177,2026-01-15 16:00:00,Maggi Noodles,Staples & Grains,2,50,Pune,100
+5178,2026-01-15 18:00:00,Maggi Noodles,Staples & Grains,5,50,Mumbai,250
+5179,2026-01-15 20:00:00,Amul Butter,Dairy & Bakery,5,30,Mumbai,150
+5180,2026-01-15 22:00:00,Basmati Rice (1kg),Staples & Grains,1,120,Mumbai,120
+5181,2026-01-16 00:00:00,Fresh Apples (1kg),Snacks,2,120,Thane,240
+5182,2026-01-16 02:00:00,Tata Salt (1kg),Snacks,3,450,Thane,1350
+5183,2026-01-16 04:00:00,Aashirvaad Atta (5kg),Staples & Grains,1,120,Thane,120
+5184,2026-01-16 06:00:00,Sugar (1kg),Staples & Grains,3,30,Thane,90
+5185,2026-01-16 08:00:00,Fortune Oil (1L),Staples & Grains,5,250,Thane,1250
+5186,2026-01-16 10:00:00,Colgate Toothpaste,Snacks,4,50,Thane,200
+5187,2026-01-16 12:00:00,Sugar (1kg),Snacks,5,50,Mumbai,250
+5188,2026-01-16 14:00:00,Fortune Oil (1L),Snacks,5,450,Nashik,2250
+5189,2026-01-16 16:00:00,Aashirvaad Atta (5kg),Dairy & Bakery,2,50,Pune,100
+5190,2026-01-16 18:00:00,Sugar (1kg),Dairy & Bakery,2,250,Pune,500
+5191,2026-01-16 20:00:00,Colgate Toothpaste,Staples & Grains,3,50,Nagpur,150
+5192,2026-01-16 22:00:00,Fresh Apples (1kg),Personal Care,5,30,Pune,150
+5193,2026-01-17 00:00:00,Basmati Rice (1kg),Dairy & Bakery,2,250,Thane,500
+5194,2026-01-17 02:00:00,Basmati Rice (1kg),Staples & Grains,5,50,Nashik,250
+5195,2026-01-17 04:00:00,Colgate Toothpaste,Staples & Grains,3,250,Nagpur,750
+5196,2026-01-17 06:00:00,Sugar (1kg),Staples & Grains,5,50,Nagpur,250
+5197,2026-01-17 08:00:00,Aashirvaad Atta (5kg),Snacks,5,120,Nagpur,600
+5198,2026-01-17 10:00:00,Colgate Toothpaste,Dairy & Bakery,5,450,Nagpur,2250
+5199,2026-01-17 12:00:00,Basmati Rice (1kg),Staples & Grains,5,75,Thane,375
+5200,2026-01-17 14:00:00,Maggi Noodles,Personal Care,3,50,Mumbai,150
+5201,2026-01-17 16:00:00,Fresh Apples (1kg),Groceries,5,50,Pune,250
+5202,2026-01-17 18:00:00,Basmati Rice (1kg),Staples & Grains,1,250,Thane,250
+5203,2026-01-17 20:00:00,Tata Salt (1kg),Staples & Grains,4,30,Thane,120
+5204,2026-01-17 22:00:00,Fortune Oil (1L),Staples & Grains,3,120,Mumbai,360
+5205,2026-01-18 00:00:00,Tata Salt (1kg),Groceries,3,50,Nagpur,150
+5206,2026-01-18 02:00:00,Maggi Noodles,Fruits & Vegetables,1,50,Mumbai,50
+5207,2026-01-18 04:00:00,Fortune Oil (1L),Staples & Grains,5,30,Nagpur,150
+5208,2026-01-18 06:00:00,Colgate Toothpaste,Staples & Grains,4,450,Nashik,1800
+5209,2026-01-18 08:00:00,Aashirvaad Atta (5kg),Dairy & Bakery,1,30,Nagpur,30
+5210,2026-01-18 10:00:00,Colgate Toothpaste,Personal Care,5,75,Nagpur,375
+5211,2026-01-18 12:00:00,Maggi Noodles,Dairy & Bakery,5,75,Nashik,375
+5212,2026-01-18 14:00:00,Amul Butter,Groceries,3,250,Pune,750
+5213,2026-01-18 16:00:00,Aashirvaad Atta (5kg),Dairy & Bakery,5,30,Thane,150
+5214,2026-01-18 18:00:00,Sugar (1kg),Snacks,1,75,Mumbai,75
+5215,2026-01-18 20:00:00,Basmati Rice (1kg),Fruits & Vegetables,4,50,Nagpur,200
+5216,2026-01-18 22:00:00,Sugar (1kg),Groceries,1,450,Thane,450
+5217,2026-01-19 00:00:00,Maggi Noodles,Dairy & Bakery,2,50,Mumbai,100
+5218,2026-01-19 02:00:00,Basmati Rice (1kg),Fruits & Vegetables,4,30,Pune,120
+5219,2026-01-19 04:00:00,Sugar (1kg),Personal Care,5,120,Pune,600
+5220,2026-01-19 06:00:00,Fresh Apples (1kg),Staples & Grains,2,50,Pune,100
+5221,2026-01-19 08:00:00,Maggi Noodles,Staples & Grains,5,30,Nashik,150
+5222,2026-01-19 10:00:00,Amul Butter,Groceries,4,50,Thane,200
+5223,2026-01-19 12:00:00,Colgate Toothpaste,Staples & Grains,3,450,Mumbai,1350
+5224,2026-01-19 14:00:00,Colgate Toothpaste,Snacks,3,250,Nagpur,750
+5225,2026-01-19 16:00:00,Fresh Apples (1kg),Snacks,4,120,Pune,480
+5226,2026-01-19 18:00:00,Sugar (1kg),Personal Care,5,30,Pune,150
+5227,2026-01-19 20:00:00,Fortune Oil (1L),Snacks,1,50,Thane,50
+5228,2026-01-19 22:00:00,Colgate Toothpaste,Dairy & Bakery,2,30,Pune,60
+5229,2026-01-20 00:00:00,Colgate Toothpaste,Staples & Grains,4,75,Nashik,300
+5230,2026-01-20 02:00:00,Tata Salt (1kg),Snacks,1,30,Pune,30
+5231,2026-01-20 04:00:00,Fresh Apples (1kg),Snacks,2,250,Nagpur,500
+5232,2026-01-20 06:00:00,Aashirvaad Atta (5kg),Fruits & Vegetables,3,50,Pune,150
+5233,2026-01-20 08:00:00,Fresh Apples (1kg),Dairy & Bakery,4,250,Pune,1000
+5234,2026-01-20 10:00:00,Amul Butter,Groceries,3,250,Nagpur,750
+5235,2026-01-20 12:00:00,Sugar (1kg),Groceries,4,120,Mumbai,480
+5236,2026-01-20 14:00:00,Basmati Rice (1kg),Dairy & Bakery,3,75,Mumbai,225
+5237,2026-01-20 16:00:00,Milk (1L),Personal Care,4,120,Nagpur,480
+5238,2026-01-20 18:00:00,Aashirvaad Atta (5kg),Staples & Grains,3,75,Mumbai,225
+5239,2026-01-20 20:00:00,Maggi Noodles,Staples & Grains,3,75,Nagpur,225
+5240,2026-01-20 22:00:00,Fresh Apples (1kg),Staples & Grains,3,450,Mumbai,1350
+5241,2026-01-21 00:00:00,Fortune Oil (1L),Snacks,3,30,Nashik,90
+5242,2026-01-21 02:00:00,Fresh Apples (1kg),Dairy & Bakery,2,75,Mumbai,150
+5243,2026-01-21 04:00:00,Colgate Toothpaste,Staples & Grains,4,50,Nagpur,200
+5244,2026-01-21 06:00:00,Fortune Oil (1L),Groceries,2,30,Nagpur,60
+5245,2026-01-21 08:00:00,Fortune Oil (1L),Staples & Grains,2,75,Nagpur,150
+5246,2026-01-21 10:00:00,Fortune Oil (1L),Snacks,2,30,Pune,60
+5247,2026-01-21 12:00:00,Aashirvaad Atta (5kg),Snacks,5,120,Thane,600
+5248,2026-01-21 14:00:00,Colgate Toothpaste,Fruits & Vegetables,5,120,Pune,600
+5249,2026-01-21 16:00:00,Sugar (1kg),Dairy & Bakery,1,120,Pune,120
+5250,2026-01-21 18:00:00,Maggi Noodles,Fruits & Vegetables,2,120,Nagpur,240
+5251,2026-01-21 20:00:00,Milk (1L),Staples & Grains,4,75,Nashik,300
+5252,2026-01-21 22:00:00,Maggi Noodles,Snacks,2,120,Mumbai,240
+5253,2026-01-22 00:00:00,Milk (1L),Groceries,4,250,Thane,1000
+5254,2026-01-22 02:00:00,Colgate Toothpaste,Dairy & Bakery,2,250,Pune,500
+5255,2026-01-22 04:00:00,Milk (1L),Staples & Grains,3,50,Nagpur,150
+5256,2026-01-22 06:00:00,Amul Butter,Dairy & Bakery,1,50,Mumbai,50
+5257,2026-01-22 08:00:00,Aashirvaad Atta (5kg),Groceries,5,30,Nagpur,150
+5258,2026-01-22 10:00:00,Fortune Oil (1L),Staples & Grains,2,120,Nashik,240
+5259,2026-01-22 12:00:00,Fresh Apples (1kg),Dairy & Bakery,3,75,Pune,225
+5260,2026-01-22 14:00:00,Milk (1L),Snacks,5,50,Mumbai,250
+5261,2026-01-22 16:00:00,Milk (1L),Dairy & Bakery,4,30,Nashik,120
+5262,2026-01-22 18:00:00,Fresh Apples (1kg),Personal Care,1,30,Pune,30
+5263,2026-01-22 20:00:00,Maggi Noodles,Staples & Grains,4,120,Pune,480
+5264,2026-01-22 22:00:00,Fortune Oil (1L),Fruits & Vegetables,2,75,Pune,150
+5265,2026-01-23 00:00:00,Maggi Noodles,Staples & Grains,3,75,Mumbai,225
+5266,2026-01-23 02:00:00,Maggi Noodles,Groceries,1,450,Mumbai,450
+5267,2026-01-23 04:00:00,Tata Salt (1kg),Dairy & Bakery,2,450,Mumbai,900
+5268,2026-01-23 06:00:00,Fresh Apples (1kg),Personal Care,2,120,Pune,240
+5269,2026-01-23 08:00:00,Amul Butter,Groceries,4,30,Mumbai,120
+5270,2026-01-23 10:00:00,Milk (1L),Groceries,4,250,Thane,1000
+5271,2026-01-23 12:00:00,Maggi Noodles,Groceries,1,30,Nashik,30
+5272,2026-01-23 14:00:00,Fortune Oil (1L),Staples & Grains,5,120,Nagpur,600
+5273,2026-01-23 16:00:00,Milk (1L),Personal Care,2,250,Thane,500
+5274,2026-01-23 18:00:00,Basmati Rice (1kg),Groceries,2,75,Nagpur,150
+5275,2026-01-23 20:00:00,Maggi Noodles,Dairy & Bakery,1,120,Thane,120
+5276,2026-01-23 22:00:00,Fresh Apples (1kg),Fruits & Vegetables,4,50,Nagpur,200
+5277,2026-01-24 00:00:00,Maggi Noodles,Groceries,2,50,Mumbai,100
+5278,2026-01-24 02:00:00,Sugar (1kg),Personal Care,1,30,Nashik,30
+5279,2026-01-24 04:00:00,Maggi Noodles,Groceries,1,120,Thane,120
+5280,2026-01-24 06:00:00,Fresh Apples (1kg),Personal Care,5,75,Nashik,375
+5281,2026-01-24 08:00:00,Maggi Noodles,Staples & Grains,1,75,Mumbai,75
+5282,2026-01-24 10:00:00,Milk (1L),Staples & Grains,2,30,Nashik,60
+5283,2026-01-24 12:00:00,Tata Salt (1kg),Personal Care,4,450,Nashik,1800
+5284,2026-01-24 14:00:00,Basmati Rice (1kg),Groceries,4,120,Thane,480
+5285,2026-01-24 16:00:00,Amul Butter,Dairy & Bakery,4,120,Thane,480
+5286,2026-01-24 18:00:00,Colgate Toothpaste,Staples & Grains,1,120,Pune,120
+5287,2026-01-24 20:00:00,Amul Butter,Personal Care,1,450,Thane,450
+5288,2026-01-24 22:00:00,Maggi Noodles,Staples & Grains,4,30,Mumbai,120
+5289,2026-01-25 00:00:00,Tata Salt (1kg),Staples & Grains,2,30,Mumbai,60
+5290,2026-01-25 02:00:00,Aashirvaad Atta (5kg),Snacks,1,75,Nashik,75
+5291,2026-01-25 04:00:00,Fresh Apples (1kg),Dairy & Bakery,4,50,Nashik,200
+5292,2026-01-25 06:00:00,Fortune Oil (1L),Dairy & Bakery,4,450,Nashik,1800
+5293,2026-01-25 08:00:00,Aashirvaad Atta (5kg),Staples & Grains,4,120,Nashik,480
+5294,2026-01-25 10:00:00,Aashirvaad Atta (5kg),Groceries,4,250,Nagpur,1000
+5295,2026-01-25 12:00:00,Fortune Oil (1L),Staples & Grains,5,30,Nagpur,150
+5296,2026-01-25 14:00:00,Fresh Apples (1kg),Staples & Grains,4,250,Thane,1000
+5297,2026-01-25 16:00:00,Fresh Apples (1kg),Dairy & Bakery,4,75,Pune,300
+5298,2026-01-25 18:00:00,Tata Salt (1kg),Groceries,3,120,Thane,360
+5299,2026-01-25 20:00:00,Aashirvaad Atta (5kg),Staples & Grains,5,50,Thane,250
+5300,2026-01-25 22:00:00,Milk (1L),Dairy & Bakery,3,30,Pune,90
+5301,2026-01-26 00:00:00,Basmati Rice (1kg),Staples & Grains,4,75,Pune,300
+5302,2026-01-26 02:00:00,Aashirvaad Atta (5kg),Groceries,4,75,Mumbai,300
+5303,2026-01-26 04:00:00,Maggi Noodles,Fruits & Vegetables,5,30,Mumbai,150
+5304,2026-01-26 06:00:00,Tata Salt (1kg),Personal Care,2,250,Mumbai,500
+5305,2026-01-26 08:00:00,Fortune Oil (1L),Personal Care,4,50,Mumbai,200
+5306,2026-01-26 10:00:00,Sugar (1kg),Personal Care,3,30,Mumbai,90
+5307,2026-01-26 12:00:00,Milk (1L),Personal Care,5,250,Nagpur,1250
+5308,2026-01-26 14:00:00,Aashirvaad Atta (5kg),Fruits & Vegetables,2,30,Nagpur,60
+5309,2026-01-26 16:00:00,Tata Salt (1kg),Dairy & Bakery,5,30,Mumbai,150
+5310,2026-01-26 18:00:00,Sugar (1kg),Fruits & Vegetables,1,250,Mumbai,250
+5311,2026-01-26 20:00:00,Sugar (1kg),Dairy & Bakery,4,450,Pune,1800
+5312,2026-01-26 22:00:00,Tata Salt (1kg),Staples & Grains,1,30,Pune,30
+5313,2026-01-27 00:00:00,Colgate Toothpaste,Fruits & Vegetables,5,120,Nashik,600
+5314,2026-01-27 02:00:00,Basmati Rice (1kg),Dairy & Bakery,4,50,Mumbai,200
+5315,2026-01-27 04:00:00,Amul Butter,Dairy & Bakery,3,120,Nashik,360
+5316,2026-01-27 06:00:00,Maggi Noodles,Groceries,3,250,Pune,750
+5317,2026-01-27 08:00:00,Basmati Rice (1kg),Snacks,3,50,Pune,150
+5318,2026-01-27 10:00:00,Basmati Rice (1kg),Staples & Grains,1,75,Nashik,75
+5319,2026-01-27 12:00:00,Amul Butter,Staples & Grains,1,120,Nashik,120
+5320,2026-01-27 14:00:00,Aashirvaad Atta (5kg),Staples & Grains,3,250,Nashik,750
+5321,2026-01-27 16:00:00,Tata Salt (1kg),Staples & Grains,4,50,Pune,200
+5322,2026-01-27 18:00:00,Milk (1L),Staples & Grains,5,450,Thane,2250
+5323,2026-01-27 20:00:00,Fresh Apples (1kg),Groceries,5,450,Mumbai,2250
+5324,2026-01-27 22:00:00,Amul Butter,Fruits & Vegetables,1,50,Nagpur,50
+5325,2026-01-28 00:00:00,Basmati Rice (1kg),Fruits & Vegetables,3,30,Thane,90
+5326,2026-01-28 02:00:00,Aashirvaad Atta (5kg),Dairy & Bakery,1,250,Mumbai,250
+5327,2026-01-28 04:00:00,Sugar (1kg),Snacks,1,75,Thane,75
+5328,2026-01-28 06:00:00,Colgate Toothpaste,Dairy & Bakery,1,75,Nagpur,75
+5329,2026-01-28 08:00:00,Tata Salt (1kg),Personal Care,4,450,Nagpur,1800
+5330,2026-01-28 10:00:00,Colgate Toothpaste,Personal Care,2,50,Pune,100
+5331,2026-01-28 12:00:00,Fresh Apples (1kg),Staples & Grains,4,250,Mumbai,1000
+5332,2026-01-28 14:00:00,Colgate Toothpaste,Staples & Grains,3,50,Thane,150
+5333,2026-01-28 16:00:00,Colgate Toothpaste,Staples & Grains,2,250,Mumbai,500
+5334,2026-01-28 18:00:00,Tata Salt (1kg),Staples & Grains,5,250,Pune,1250
+5335,2026-01-28 20:00:00,Basmati Rice (1kg),Personal Care,5,75,Nagpur,375
+5336,2026-01-28 22:00:00,Tata Salt (1kg),Dairy & Bakery,1,50,Thane,50
+5337,2026-01-29 00:00:00,Maggi Noodles,Personal Care,2,250,Thane,500
+5338,2026-01-29 02:00:00,Colgate Toothpaste,Staples & Grains,5,250,Thane,1250
+5339,2026-01-29 04:00:00,Maggi Noodles,Staples & Grains,4,75,Mumbai,300
+5340,2026-01-29 06:00:00,Aashirvaad Atta (5kg),Snacks,5,75,Nagpur,375
+5341,2026-01-29 08:00:00,Fresh Apples (1kg),Dairy & Bakery,4,75,Nashik,300
+5342,2026-01-29 10:00:00,Amul Butter,Personal Care,2,30,Thane,60
+5343,2026-01-29 12:00:00,Sugar (1kg),Snacks,4,50,Nashik,200
+5344,2026-01-29 14:00:00,Fresh Apples (1kg),Staples & Grains,5,30,Thane,150
+5345,2026-01-29 16:00:00,Basmati Rice (1kg),Fruits & Vegetables,2,50,Thane,100
+5346,2026-01-29 18:00:00,Maggi Noodles,Staples & Grains,2,250,Nagpur,500
+5347,2026-01-29 20:00:00,Fortune Oil (1L),Personal Care,4,250,Nashik,1000
+5348,2026-01-29 22:00:00,Fresh Apples (1kg),Dairy & Bakery,5,250,Mumbai,1250
+5349,2026-01-30 00:00:00,Basmati Rice (1kg),Dairy & Bakery,3,50,Thane,150
+5350,2026-01-30 02:00:00,Tata Salt (1kg),Staples & Grains,1,50,Thane,50
+5351,2026-01-30 04:00:00,Tata Salt (1kg),Staples & Grains,4,75,Nagpur,300
+5352,2026-01-30 06:00:00,Basmati Rice (1kg),Personal Care,2,50,Mumbai,100
+5353,2026-01-30 08:00:00,Colgate Toothpaste,Staples & Grains,5,75,Mumbai,375
+5354,2026-01-30 10:00:00,Colgate Toothpaste,Fruits & Vegetables,3,120,Thane,360
+5355,2026-01-30 12:00:00,Amul Butter,Dairy & Bakery,3,120,Thane,360
+5356,2026-01-30 14:00:00,Fresh Apples (1kg),Staples & Grains,2,75,Pune,150
+5357,2026-01-30 16:00:00,Fresh Apples (1kg),Snacks,5,450,Nashik,2250
+5358,2026-01-30 18:00:00,Fresh Apples (1kg),Staples & Grains,2,75,Thane,150
+5359,2026-01-30 20:00:00,Colgate Toothpaste,Fruits & Vegetables,1,50,Nagpur,50
+5360,2026-01-30 22:00:00,Aashirvaad Atta (5kg),Fruits & Vegetables,1,250,Thane,250
+5361,2026-01-31 00:00:00,Basmati Rice (1kg),Fruits & Vegetables,1,50,Thane,50
+5362,2026-01-31 02:00:00,Fortune Oil (1L),Staples & Grains,5,75,Pune,375
+5363,2026-01-31 04:00:00,Fortune Oil (1L),Snacks,2,75,Mumbai,150
+5364,2026-01-31 06:00:00,Amul Butter,Groceries,2,50,Nashik,100
+5365,2026-01-31 08:00:00,Tata Salt (1kg),Dairy & Bakery,4,450,Nashik,1800
+5366,2026-01-31 10:00:00,Basmati Rice (1kg),Staples & Grains,2,120,Nagpur,240
+5367,2026-01-31 12:00:00,Tata Salt (1kg),Staples & Grains,1,50,Nagpur,50
+5368,2026-01-31 14:00:00,Tata Salt (1kg),Fruits & Vegetables,2,450,Thane,900
+5369,2026-01-31 16:00:00,Fresh Apples (1kg),Snacks,1,50,Mumbai,50
+5370,2026-01-31 18:00:00,Tata Salt (1kg),Staples & Grains,3,450,Nashik,1350
+5371,2026-01-31 20:00:00,Fresh Apples (1kg),Snacks,4,250,Pune,1000
+5372,2026-01-31 22:00:00,Basmati Rice (1kg),Dairy & Bakery,2,75,Nashik,150
+5373,2026-02-01 00:00:00,Milk (1L),Staples & Grains,3,75,Thane,225
+5374,2026-02-01 02:00:00,Colgate Toothpaste,Staples & Grains,2,450,Nagpur,900
+5375,2026-02-01 04:00:00,Sugar (1kg),Staples & Grains,5,30,Nagpur,150
+5376,2026-02-01 06:00:00,Sugar (1kg),Dairy & Bakery,4,250,Nagpur,1000
+5377,2026-02-01 08:00:00,Sugar (1kg),Dairy & Bakery,5,30,Nashik,150
+5378,2026-02-01 10:00:00,Tata Salt (1kg),Fruits & Vegetables,2,50,Nagpur,100
+5379,2026-02-01 12:00:00,Colgate Toothpaste,Fruits & Vegetables,2,250,Nashik,500
+5380,2026-02-01 14:00:00,Amul Butter,Personal Care,5,75,Nashik,375
+5381,2026-02-01 16:00:00,Colgate Toothpaste,Personal Care,1,250,Pune,250
+5382,2026-02-01 18:00:00,Fortune Oil (1L),Staples & Grains,4,120,Thane,480
+5383,2026-02-01 20:00:00,Amul Butter,Snacks,4,450,Pune,1800
+5384,2026-02-01 22:00:00,Tata Salt (1kg),Staples & Grains,4,250,Mumbai,1000
+5385,2026-02-02 00:00:00,Tata Salt (1kg),Groceries,1,30,Thane,30
+5386,2026-02-02 02:00:00,Aashirvaad Atta (5kg),Snacks,3,75,Mumbai,225
+5387,2026-02-02 04:00:00,Colgate Toothpaste,Dairy & Bakery,1,250,Pune,250
+5388,2026-02-02 06:00:00,Maggi Noodles,Fruits & Vegetables,3,50,Nagpur,150
+5389,2026-02-02 08:00:00,Sugar (1kg),Staples & Grains,4,30,Nashik,120
+5390,2026-02-02 10:00:00,Milk (1L),Staples & Grains,4,75,Nagpur,300
+5391,2026-02-02 12:00:00,Aashirvaad Atta (5kg),Dairy & Bakery,1,30,Nagpur,30
+5392,2026-02-02 14:00:00,Fresh Apples (1kg),Staples & Grains,5,250,Mumbai,1250
+5393,2026-02-02 16:00:00,Basmati Rice (1kg),Dairy & Bakery,1,250,Pune,250
+5394,2026-02-02 18:00:00,Fresh Apples (1kg),Dairy & Bakery,4,450,Nashik,1800
+5395,2026-02-02 20:00:00,Fresh Apples (1kg),Staples & Grains,2,450,Thane,900
+5396,2026-02-02 22:00:00,Tata Salt (1kg),Fruits & Vegetables,5,450,Pune,2250
+5397,2026-02-03 00:00:00,Maggi Noodles,Dairy & Bakery,5,75,Pune,375
+5398,2026-02-03 02:00:00,Aashirvaad Atta (5kg),Staples & Grains,4,250,Mumbai,1000
+5399,2026-02-03 04:00:00,Fresh Apples (1kg),Dairy & Bakery,3,50,Thane,150
+5400,2026-02-03 06:00:00,Fortune Oil (1L),Dairy & Bakery,2,50,Pune,100
+5401,2026-02-03 08:00:00,Aashirvaad Atta (5kg),Fruits & Vegetables,1,450,Nashik,450
+5402,2026-02-03 10:00:00,Milk (1L),Groceries,5,30,Thane,150
+5403,2026-02-03 12:00:00,Aashirvaad Atta (5kg),Snacks,2,120,Mumbai,240
+5404,2026-02-03 14:00:00,Fresh Apples (1kg),Staples & Grains,4,50,Mumbai,200
+5405,2026-02-03 16:00:00,Fortune Oil (1L),Personal Care,1,30,Pune,30
+5406,2026-02-03 18:00:00,Basmati Rice (1kg),Groceries,2,450,Thane,900
+5407,2026-02-03 20:00:00,Colgate Toothpaste,Groceries,3,50,Mumbai,150
+5408,2026-02-03 22:00:00,Aashirvaad Atta (5kg),Personal Care,1,75,Mumbai,75
+5409,2026-02-04 00:00:00,Milk (1L),Staples & Grains,5,30,Nashik,150
+5410,2026-02-04 02:00:00,Maggi Noodles,Staples & Grains,2,50,Pune,100
+5411,2026-02-04 04:00:00,Fortune Oil (1L),Staples & Grains,5,30,Thane,150
+5412,2026-02-04 06:00:00,Colgate Toothpaste,Groceries,2,75,Mumbai,150
+5413,2026-02-04 08:00:00,Basmati Rice (1kg),Fruits & Vegetables,3,30,Mumbai,90
+5414,2026-02-04 10:00:00,Fresh Apples (1kg),Staples & Grains,1,50,Mumbai,50
+5415,2026-02-04 12:00:00,Milk (1L),Staples & Grains,5,50,Mumbai,250
+5416,2026-02-04 14:00:00,Maggi Noodles,Fruits & Vegetables,1,50,Mumbai,50
+5417,2026-02-04 16:00:00,Basmati Rice (1kg),Snacks,1,450,Mumbai,450
+5418,2026-02-04 18:00:00,Tata Salt (1kg),Fruits & Vegetables,5,75,Nagpur,375
+5419,2026-02-04 20:00:00,Tata Salt (1kg),Fruits & Vegetables,3,120,Thane,360
+5420,2026-02-04 22:00:00,Aashirvaad Atta (5kg),Groceries,4,120,Nagpur,480
+5421,2026-02-05 00:00:00,Milk (1L),Dairy & Bakery,1,120,Nagpur,120
+5422,2026-02-05 02:00:00,Basmati Rice (1kg),Staples & Grains,4,50,Thane,200
+5423,2026-02-05 04:00:00,Tata Salt (1kg),Staples & Grains,1,450,Nashik,450
+5424,2026-02-05 06:00:00,Fortune Oil (1L),Dairy & Bakery,4,50,Pune,200
+5425,2026-02-05 08:00:00,Fortune Oil (1L),Staples & Grains,1,30,Nashik,30
+5426,2026-02-05 10:00:00,Tata Salt (1kg),Fruits & Vegetables,5,75,Nashik,375
+5427,2026-02-05 12:00:00,Fresh Apples (1kg),Dairy & Bakery,5,50,Thane,250
+5428,2026-02-05 14:00:00,Fresh Apples (1kg),Staples & Grains,4,50,Nashik,200
+5429,2026-02-05 16:00:00,Fresh Apples (1kg),Fruits & Vegetables,1,450,Pune,450
+5430,2026-02-05 18:00:00,Basmati Rice (1kg),Personal Care,4,250,Nagpur,1000
+5431,2026-02-05 20:00:00,Fresh Apples (1kg),Personal Care,2,450,Thane,900
+5432,2026-02-05 22:00:00,Maggi Noodles,Staples & Grains,4,30,Nagpur,120
+5433,2026-02-06 00:00:00,Sugar (1kg),Staples & Grains,4,30,Pune,120
+5434,2026-02-06 02:00:00,Aashirvaad Atta (5kg),Groceries,5,30,Pune,150
+5435,2026-02-06 04:00:00,Sugar (1kg),Dairy & Bakery,3,250,Nashik,750
+5436,2026-02-06 06:00:00,Fortune Oil (1L),Staples & Grains,3,250,Mumbai,750
+5437,2026-02-06 08:00:00,Amul Butter,Staples & Grains,3,50,Nagpur,150
+5438,2026-02-06 10:00:00,Fortune Oil (1L),Dairy & Bakery,3,120,Thane,360
+5439,2026-02-06 12:00:00,Aashirvaad Atta (5kg),Dairy & Bakery,4,450,Mumbai,1800
+5440,2026-02-06 14:00:00,Basmati Rice (1kg),Staples & Grains,4,250,Nashik,1000
+5441,2026-02-06 16:00:00,Tata Salt (1kg),Dairy & Bakery,2,120,Pune,240
+5442,2026-02-06 18:00:00,Fortune Oil (1L),Staples & Grains,1,75,Mumbai,75
+5443,2026-02-06 20:00:00,Amul Butter,Staples & Grains,3,450,Thane,1350
+5444,2026-02-06 22:00:00,Colgate Toothpaste,Personal Care,4,120,Mumbai,480
+5445,2026-02-07 00:00:00,Milk (1L),Staples & Grains,3,30,Pune,90
+5446,2026-02-07 02:00:00,Sugar (1kg),Dairy & Bakery,3,75,Nashik,225
+5447,2026-02-07 04:00:00,Maggi Noodles,Snacks,1,120,Nagpur,120
+5448,2026-02-07 06:00:00,Colgate Toothpaste,Personal Care,3,50,Nagpur,150
+5449,2026-02-07 08:00:00,Fortune Oil (1L),Staples & Grains,5,450,Nagpur,2250
+5450,2026-02-07 10:00:00,Aashirvaad Atta (5kg),Staples & Grains,3,250,Nagpur,750
+5451,2026-02-07 12:00:00,Sugar (1kg),Personal Care,4,75,Pune,300
+5452,2026-02-07 14:00:00,Basmati Rice (1kg),Groceries,5,50,Nagpur,250
+5453,2026-02-07 16:00:00,Milk (1L),Staples & Grains,5,75,Nashik,375
+5454,2026-02-07 18:00:00,Maggi Noodles,Snacks,3,30,Nagpur,90
+5455,2026-02-07 20:00:00,Sugar (1kg),Snacks,1,75,Nagpur,75
+5456,2026-02-07 22:00:00,Fresh Apples (1kg),Dairy & Bakery,2,250,Nashik,500
+5457,2026-02-08 00:00:00,Colgate Toothpaste,Dairy & Bakery,2,450,Pune,900
+5458,2026-02-08 02:00:00,Sugar (1kg),Snacks,5,50,Nashik,250
+5459,2026-02-08 04:00:00,Fortune Oil (1L),Dairy & Bakery,2,120,Nagpur,240
+5460,2026-02-08 06:00:00,Amul Butter,Fruits & Vegetables,3,75,Nashik,225
+5461,2026-02-08 08:00:00,Fortune Oil (1L),Snacks,2,450,Thane,900
+5462,2026-02-08 10:00:00,Basmati Rice (1kg),Dairy & Bakery,1,450,Mumbai,450
+5463,2026-02-08 12:00:00,Fortune Oil (1L),Staples & Grains,3,50,Thane,150
+5464,2026-02-08 14:00:00,Amul Butter,Staples & Grains,5,250,Nagpur,1250
+5465,2026-02-08 16:00:00,Fresh Apples (1kg),Personal Care,2,75,Mumbai,150
+5466,2026-02-08 18:00:00,Sugar (1kg),Fruits & Vegetables,3,250,Nashik,750
+5467,2026-02-08 20:00:00,Colgate Toothpaste,Personal Care,3,120,Pune,360
+5468,2026-02-08 22:00:00,Sugar (1kg),Staples & Grains,2,120,Nashik,240
+5469,2026-02-09 00:00:00,Tata Salt (1kg),Snacks,3,450,Nashik,1350
+5470,2026-02-09 02:00:00,Sugar (1kg),Snacks,4,450,Nashik,1800
+5471,2026-02-09 04:00:00,Aashirvaad Atta (5kg),Groceries,5,250,Pune,1250
+5472,2026-02-09 06:00:00,Amul Butter,Staples & Grains,3,120,Thane,360
+5473,2026-02-09 08:00:00,Fresh Apples (1kg),Groceries,4,450,Pune,1800
+5474,2026-02-09 10:00:00,Maggi Noodles,Personal Care,5,75,Nashik,375
+5475,2026-02-09 12:00:00,Tata Salt (1kg),Staples & Grains,1,30,Pune,30
+5476,2026-02-09 14:00:00,Fortune Oil (1L),Staples & Grains,3,30,Mumbai,90
+5477,2026-02-09 16:00:00,Milk (1L),Staples & Grains,3,30,Nashik,90
+5478,2026-02-09 18:00:00,Fortune Oil (1L),Snacks,4,30,Nashik,120
+5479,2026-02-09 20:00:00,Maggi Noodles,Dairy & Bakery,2,120,Nagpur,240
+5480,2026-02-09 22:00:00,Tata Salt (1kg),Staples & Grains,3,50,Pune,150
+5481,2026-02-10 00:00:00,Colgate Toothpaste,Staples & Grains,1,250,Mumbai,250
+5482,2026-02-10 02:00:00,Colgate Toothpaste,Dairy & Bakery,5,75,Mumbai,375
+5483,2026-02-10 04:00:00,Milk (1L),Snacks,1,120,Mumbai,120
+5484,2026-02-10 06:00:00,Basmati Rice (1kg),Staples & Grains,2,250,Nagpur,500
+5485,2026-02-10 08:00:00,Fresh Apples (1kg),Staples & Grains,1,30,Nagpur,30
+5486,2026-02-10 10:00:00,Amul Butter,Snacks,4,450,Nagpur,1800
+5487,2026-02-10 12:00:00,Maggi Noodles,Staples & Grains,1,120,Mumbai,120
+5488,2026-02-10 14:00:00,Fortune Oil (1L),Snacks,4,30,Pune,120
+5489,2026-02-10 16:00:00,Fresh Apples (1kg),Fruits & Vegetables,5,120,Thane,600
+5490,2026-02-10 18:00:00,Fortune Oil (1L),Staples & Grains,4,30,Thane,120
+5491,2026-02-10 20:00:00,Basmati Rice (1kg),Dairy & Bakery,5,250,Nashik,1250
+5492,2026-02-10 22:00:00,Tata Salt (1kg),Staples & Grains,3,50,Thane,150
+5493,2026-02-11 00:00:00,Colgate Toothpaste,Staples & Grains,5,30,Nagpur,150
+5494,2026-02-11 02:00:00,Fortune Oil (1L),Fruits & Vegetables,5,250,Mumbai,1250
+5495,2026-02-11 04:00:00,Maggi Noodles,Fruits & Vegetables,3,120,Nagpur,360
+5496,2026-02-11 06:00:00,Colgate Toothpaste,Snacks,3,75,Pune,225
+5497,2026-02-11 08:00:00,Colgate Toothpaste,Dairy & Bakery,3,250,Nashik,750
+5498,2026-02-11 10:00:00,Tata Salt (1kg),Groceries,2,450,Pune,900
+5499,2026-02-11 12:00:00,Tata Salt (1kg),Snacks,1,450,Mumbai,450
+5500,2026-02-11 14:00:00,Fortune Oil (1L),Staples & Grains,5,30,Nashik,150
+5501,2026-02-11 16:00:00,Colgate Toothpaste,Personal Care,5,450,Pune,2250
+5502,2026-02-11 18:00:00,Sugar (1kg),Fruits & Vegetables,4,120,Nagpur,480
+5503,2026-02-11 20:00:00,Tata Salt (1kg),Snacks,4,250,Nagpur,1000
+5504,2026-02-11 22:00:00,Colgate Toothpaste,Staples & Grains,2,250,Mumbai,500
+5505,2026-02-12 00:00:00,Maggi Noodles,Staples & Grains,4,50,Nagpur,200
+5506,2026-02-12 02:00:00,Fortune Oil (1L),Staples & Grains,5,120,Nagpur,600
+5507,2026-02-12 04:00:00,Fresh Apples (1kg),Fruits & Vegetables,1,30,Thane,30
+5508,2026-02-12 06:00:00,Fortune Oil (1L),Personal Care,2,250,Pune,500
+5509,2026-02-12 08:00:00,Sugar (1kg),Staples & Grains,5,50,Nashik,250
+5510,2026-02-12 10:00:00,Tata Salt (1kg),Personal Care,1,250,Thane,250
+5511,2026-02-12 12:00:00,Milk (1L),Personal Care,1,75,Nashik,75
+5512,2026-02-12 14:00:00,Milk (1L),Personal Care,4,30,Thane,120
+5513,2026-02-12 16:00:00,Colgate Toothpaste,Personal Care,4,50,Pune,200
+5514,2026-02-12 18:00:00,Maggi Noodles,Personal Care,2,50,Mumbai,100
+5515,2026-02-12 20:00:00,Fresh Apples (1kg),Personal Care,5,450,Pune,2250
+5516,2026-02-12 22:00:00,Tata Salt (1kg),Dairy & Bakery,4,75,Nagpur,300
+5517,2026-02-13 00:00:00,Tata Salt (1kg),Snacks,3,450,Mumbai,1350
+5518,2026-02-13 02:00:00,Tata Salt (1kg),Staples & Grains,2,450,Pune,900
+5519,2026-02-13 04:00:00,Fortune Oil (1L),Staples & Grains,2,50,Pune,100
+5520,2026-02-13 06:00:00,Basmati Rice (1kg),Staples & Grains,4,75,Thane,300
+5521,2026-02-13 08:00:00,Fortune Oil (1L),Dairy & Bakery,4,30,Pune,120
+5522,2026-02-13 10:00:00,Fortune Oil (1L),Snacks,2,50,Pune,100
+5523,2026-02-13 12:00:00,Milk (1L),Staples & Grains,3,250,Nagpur,750
+5524,2026-02-13 14:00:00,Amul Butter,Dairy & Bakery,5,450,Nagpur,2250
+5525,2026-02-13 16:00:00,Aashirvaad Atta (5kg),Groceries,2,75,Mumbai,150
+5526,2026-02-13 18:00:00,Fortune Oil (1L),Snacks,1,50,Nagpur,50
+5527,2026-02-13 20:00:00,Sugar (1kg),Fruits & Vegetables,2,450,Mumbai,900
+5528,2026-02-13 22:00:00,Colgate Toothpaste,Dairy & Bakery,1,120,Thane,120
+5529,2026-02-14 00:00:00,Milk (1L),Personal Care,2,75,Mumbai,150
+5530,2026-02-14 02:00:00,Sugar (1kg),Staples & Grains,2,30,Nagpur,60
+5531,2026-02-14 04:00:00,Sugar (1kg),Groceries,3,75,Pune,225
+5532,2026-02-14 06:00:00,Sugar (1kg),Dairy & Bakery,3,75,Nagpur,225
+5533,2026-02-14 08:00:00,Fortune Oil (1L),Groceries,2,120,Thane,240
+5534,2026-02-14 10:00:00,Tata Salt (1kg),Staples & Grains,4,30,Pune,120
+5535,2026-02-14 12:00:00,Colgate Toothpaste,Personal Care,4,450,Nagpur,1800
+5536,2026-02-14 14:00:00,Sugar (1kg),Staples & Grains,2,120,Nagpur,240
+5537,2026-02-14 16:00:00,Amul Butter,Groceries,1,250,Nashik,250
+5538,2026-02-14 18:00:00,Fortune Oil (1L),Groceries,1,75,Nashik,75
+5539,2026-02-14 20:00:00,Amul Butter,Fruits & Vegetables,3,75,Pune,225
+5540,2026-02-14 22:00:00,Sugar (1kg),Staples & Grains,3,120,Nagpur,360
+5541,2026-02-15 00:00:00,Sugar (1kg),Staples & Grains,4,250,Nagpur,1000
+5542,2026-02-15 02:00:00,Maggi Noodles,Staples & Grains,5,250,Mumbai,1250
+5543,2026-02-15 04:00:00,Maggi Noodles,Staples & Grains,1,250,Thane,250
+5544,2026-02-15 06:00:00,Maggi Noodles,Staples & Grains,1,50,Mumbai,50
+5545,2026-02-15 08:00:00,Colgate Toothpaste,Staples & Grains,5,450,Nashik,2250
+5546,2026-02-15 10:00:00,Amul Butter,Staples & Grains,2,120,Nagpur,240
+5547,2026-02-15 12:00:00,Milk (1L),Staples & Grains,2,250,Nagpur,500
+5548,2026-02-15 14:00:00,Fortune Oil (1L),Dairy & Bakery,2,120,Nagpur,240
+5549,2026-02-15 16:00:00,Fresh Apples (1kg),Dairy & Bakery,4,120,Nashik,480
+5550,2026-02-15 18:00:00,Maggi Noodles,Staples & Grains,2,50,Mumbai,100
+5551,2026-02-15 20:00:00,Aashirvaad Atta (5kg),Staples & Grains,4,250,Pune,1000
+5552,2026-02-15 22:00:00,Basmati Rice (1kg),Staples & Grains,1,75,Nagpur,75
+5553,2026-02-16 00:00:00,Sugar (1kg),Snacks,4,75,Nashik,300
+5554,2026-02-16 02:00:00,Milk (1L),Staples & Grains,4,30,Nagpur,120
+5555,2026-02-16 04:00:00,Aashirvaad Atta (5kg),Personal Care,5,120,Thane,600
+5556,2026-02-16 06:00:00,Fortune Oil (1L),Groceries,1,450,Nashik,450
+5557,2026-02-16 08:00:00,Sugar (1kg),Staples & Grains,4,50,Thane,200
+5558,2026-02-16 10:00:00,Fortune Oil (1L),Staples & Grains,3,50,Mumbai,150
+5559,2026-02-16 12:00:00,Aashirvaad Atta (5kg),Personal Care,5,250,Nagpur,1250
+5560,2026-02-16 14:00:00,Maggi Noodles,Dairy & Bakery,3,120,Nashik,360
+5561,2026-02-16 16:00:00,Aashirvaad Atta (5kg),Staples & Grains,1,75,Mumbai,75
+5562,2026-02-16 18:00:00,Sugar (1kg),Snacks,1,75,Nashik,75
+5563,2026-02-16 20:00:00,Colgate Toothpaste,Dairy & Bakery,3,50,Pune,150
+5564,2026-02-16 22:00:00,Amul Butter,Staples & Grains,1,450,Mumbai,450
+5565,2026-02-17 00:00:00,Maggi Noodles,Staples & Grains,2,30,Nagpur,60
+5566,2026-02-17 02:00:00,Aashirvaad Atta (5kg),Dairy & Bakery,2,250,Pune,500
+5567,2026-02-17 04:00:00,Colgate Toothpaste,Dairy & Bakery,3,75,Pune,225
+5568,2026-02-17 06:00:00,Basmati Rice (1kg),Staples & Grains,5,120,Thane,600
+5569,2026-02-17 08:00:00,Sugar (1kg),Staples & Grains,3,250,Mumbai,750
+5570,2026-02-17 10:00:00,Sugar (1kg),Fruits & Vegetables,1,30,Mumbai,30
+5571,2026-02-17 12:00:00,Basmati Rice (1kg),Staples & Grains,4,450,Nashik,1800
+5572,2026-02-17 14:00:00,Tata Salt (1kg),Groceries,1,250,Nashik,250
+5573,2026-02-17 16:00:00,Amul Butter,Staples & Grains,5,30,Pune,150
+5574,2026-02-17 18:00:00,Maggi Noodles,Personal Care,1,120,Thane,120
+5575,2026-02-17 20:00:00,Sugar (1kg),Groceries,4,120,Thane,480
+5576,2026-02-17 22:00:00,Amul Butter,Dairy & Bakery,2,250,Mumbai,500
+5577,2026-02-18 00:00:00,Amul Butter,Staples & Grains,1,30,Nashik,30
+5578,2026-02-18 02:00:00,Fresh Apples (1kg),Dairy & Bakery,5,50,Nashik,250
+5579,2026-02-18 04:00:00,Fortune Oil (1L),Snacks,3,30,Nashik,90
+5580,2026-02-18 06:00:00,Tata Salt (1kg),Personal Care,3,50,Nagpur,150
+5581,2026-02-18 08:00:00,Maggi Noodles,Staples & Grains,2,450,Nashik,900
+5582,2026-02-18 10:00:00,Sugar (1kg),Staples & Grains,3,50,Pune,150
+5583,2026-02-18 12:00:00,Basmati Rice (1kg),Staples & Grains,1,50,Nagpur,50
+5584,2026-02-18 14:00:00,Basmati Rice (1kg),Groceries,3,450,Thane,1350
+5585,2026-02-18 16:00:00,Amul Butter,Dairy & Bakery,3,75,Mumbai,225
+5586,2026-02-18 18:00:00,Milk (1L),Fruits & Vegetables,1,250,Nagpur,250
+5587,2026-02-18 20:00:00,Fresh Apples (1kg),Dairy & Bakery,4,50,Thane,200
+5588,2026-02-18 22:00:00,Milk (1L),Staples & Grains,2,50,Pune,100
+5589,2026-02-19 00:00:00,Aashirvaad Atta (5kg),Dairy & Bakery,5,450,Thane,2250
+5590,2026-02-19 02:00:00,Basmati Rice (1kg),Dairy & Bakery,5,50,Nashik,250
+5591,2026-02-19 04:00:00,Sugar (1kg),Groceries,5,250,Nashik,1250
+5592,2026-02-19 06:00:00,Fresh Apples (1kg),Staples & Grains,2,75,Mumbai,150
+5593,2026-02-19 08:00:00,Colgate Toothpaste,Snacks,3,120,Nashik,360
+5594,2026-02-19 10:00:00,Aashirvaad Atta (5kg),Dairy & Bakery,5,450,Nashik,2250
+5595,2026-02-19 12:00:00,Tata Salt (1kg),Staples & Grains,2,120,Pune,240
+5596,2026-02-19 14:00:00,Amul Butter,Dairy & Bakery,2,450,Nashik,900
+5597,2026-02-19 16:00:00,Aashirvaad Atta (5kg),Dairy & Bakery,3,30,Thane,90
+5598,2026-02-19 18:00:00,Milk (1L),Groceries,2,50,Pune,100
+5599,2026-02-19 20:00:00,Colgate Toothpaste,Staples & Grains,4,250,Nashik,1000
+5600,2026-02-19 22:00:00,Colgate Toothpaste,Fruits & Vegetables,5,50,Mumbai,250
